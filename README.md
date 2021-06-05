@@ -44,6 +44,8 @@ Then configure the rules you want to use under the rules section.
 
 * Fill in provided rules here
 
+With the help https://github.com/eslint/generator-eslint
+
 
 
 

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7a5f889-f8c9-4211-9853-aa41ed109a63" name="Default Changelist" comment="" />
+    <list default="true" id="d7a5f889-f8c9-4211-9853-aa41ed109a63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/utils/const.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/locale.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rules/function-parameters-limit.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rules/function-parameters-limit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rules/no-bad-await.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rules/no-bad-await.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/lib/rules/no-bad-await.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/lib/rules/no-bad-await.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -22,6 +37,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1t9ZUWJnGzmg4msLQ2Ib9V4rDmz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,13 +47,29 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.20.13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eslintCustomRule/tests/lib/rules/noBadAwait.js" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="A:\Studing\eslint-plugin-burton\workspace\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../node/node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\Studing\eslint-plugin-burton" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\Studing\eslint-plugin-burton\utils" />
+      <recent name="A:\Studing\eslint-plugin-burton\workspace" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,17 +79,80 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622183282010</updated>
-      <workItem from="1622183283068" duration="3266000" />
+      <workItem from="1622183283068" duration="3994000" />
+      <workItem from="1622387817388" duration="58000" />
+      <workItem from="1622394008523" duration="2957000" />
+      <workItem from="1622573539510" duration="2676000" />
+      <workItem from="1622662323569" duration="124000" />
+      <workItem from="1622662633432" duration="7333000" />
+      <workItem from="1622885904691" duration="5980000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1622183784175">
+    <state x="-1215" y="349" key="#Notifications" timestamp="1622396108314">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1215" y="349" key="#Notifications/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1622396108314" />
+    <state x="-1506" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622395556198">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1506" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1622395556198" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1622186866242" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1622665066519">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="-1180" y="280" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1622387874050" />
+    <state x="740" y="280" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622665066519" />
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1622183784175" />
+    <state x="-1126" y="245" key="RollbackChangesDialog" timestamp="1622394828832">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1126" y="245" key="RollbackChangesDialog/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1622394828832" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1622664447129">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1459" y="170" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1622395768325" />
+    <state x="461" y="170" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622664447129" />
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1622186951059" />
+    <state x="-1828" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622395768651">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1622395768651" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1622187446221" />
+    <state x="739" y="193" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1622886931709">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="193" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622886931709" />
+    <state x="667" y="258" width="585" height="534" key="find.popup" timestamp="1622886920677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="258" width="585" height="534" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622886920677" />
+    <state x="-1304" y="243" key="run.anything.popup" timestamp="1622395737139">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1304" y="243" key="run.anything.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1622395737139" />
+    <state x="623" y="227" key="search.everywhere.popup" timestamp="1622886937065">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622886937065" />
   </component>
 </project>
