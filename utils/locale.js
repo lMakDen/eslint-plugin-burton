@@ -1,4 +1,4 @@
-const RULES = require('./const')
+const { RULES } = require('./const')
 
 
 module.exports = {
