@@ -16,15 +16,26 @@ ruleTester.run(RULES.FUNCTION_PARAMETERS_LIMIT, rule, {
   ],
 
   invalid: [
+    // {
+    //   code:
+    //   `function testFunc(a = 1, b, c, d=7, e, azaza, g) {
+    //        return 1;
+    //    }`,
+    //   output:
+    //     `function testFunc ({a = 1, b, c, d=7, e, azaza, g})  {
+    //        return 1;
+    //    }`,
+    //   errors: [{ message: locale[RULES.FUNCTION_PARAMETERS_LIMIT].message }],
+    // },
     {
       code:
-      `function testFunc(a = 1, b, c, d=7, e, azaza, g) {
-           return 1;
-       }`,
+        `const functionExample = (a = 1, b, c, d = 7, e, azaza, g) => {
+          return null;
+        }`,
       output:
-        `function testFunc ({a = 1, b, c, d=7, e, azaza, g})  {
-           return 1;
-       }`,
+        `const functionExample = ({a = 1, b, c, d = 7, e, azaza, g}) => {
+          return null;
+        }`,
       errors: [{ message: locale[RULES.FUNCTION_PARAMETERS_LIMIT].message }],
     },
   ]
